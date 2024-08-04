@@ -22,16 +22,29 @@ https://www.mdpi.com/2072-4292/16/15/2825
 
 
 ## If it is useful for your research or application, please cite it in the following format (BibTeX):
-@Article{rs16152825,
+@Article{
+
+rs16152825,
+
 AUTHOR = {Yu, Haomiao and Wang, Fangxiong and Hou, Yingzi and Wang, Junfu and Zhu, Jianfeng and Cui, Zhenqi},
+
 TITLE = {CMFPNet: A Cross-Modal Multidimensional Frequency Perception Network for Extracting Offshore Aquaculture Areas from MSI and SAR Images},
+
 JOURNAL = {Remote Sensing},
+
 VOLUME = {16},
+
 YEAR = {2024},
+
 NUMBER = {15},
+
 ARTICLE-NUMBER = {2825},
+
 URL = {https://www.mdpi.com/2072-4292/16/15/2825},
+
 ISSN = {2072-4292},
+
 DOI = {10.3390/rs16152825}
+
 }
 
