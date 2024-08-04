@@ -9,7 +9,7 @@ The accurate extraction and monitoring of offshore aquaculture areas are crucial
 
 ### The structure of the LGPB.
 <div align=center>
-<img src=https://github.com/user-attachments/assets/0c03dffc-b976-4e97-bd2b-e299aa0c1ba6 width=70% />
+<img src=https://github.com/user-attachments/assets/0c03dffc-b976-4e97-bd2b-e299aa0c1ba6 width=40% />
 </div>
 
 ### The structure of the MAFFAB.
